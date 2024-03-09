@@ -1,3 +1,4 @@
 # Create sprite groups
 all_sprites = pygame.sprite.Group()
 obstacles = pygame.sprite.Group()
+obstacles = pygame.sprite.Group()
